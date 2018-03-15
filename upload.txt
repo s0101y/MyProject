@@ -1,0 +1,7 @@
+cd ~/Myproject
+git status
+git add 파일명
+git commit -m "상태명"
+git remote add origin https://github.com/s0101y/MyProject
+git remote -v
+git push origin mater
